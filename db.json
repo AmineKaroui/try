@@ -1,22 +1,14 @@
-   {           "trainRunning": [
-                     {
-                        "location": "130E",
-                        "locationLname": "Jebel Jelloud",
-                       
-                        
-                        "departureTime": {
-                           "_hour": "14",
-                           "_minutes": "34",
-                           "_seconds": "",
-                           "_tensMinutes": "0"
-                        },
-                        "regSname": "",
-                        "distance": "0",
-                        "dayShift": "0"
-                     },
-                   
-                     
-                  ]
-                 
-               }
-
+ [
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
+]
