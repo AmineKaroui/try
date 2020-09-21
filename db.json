@@ -1,0 +1,71 @@
+   {           "trainRunning": [
+                     {
+                        "location": "130E",
+                        "locationLname": "Jebel Jelloud",
+                        "arrivalTime": {
+                           "_hour": "14",
+                           "_minutes": "32",
+                           "_seconds": "",
+                           "_tensMinutes": "0"
+                        },
+                        "spoSname": "=",
+                        "departureTime": {
+                           "_hour": "14",
+                           "_minutes": "34",
+                           "_seconds": "",
+                           "_tensMinutes": "0"
+                        },
+                        "regSname": "",
+                        "distance": "0",
+                        "dayShift": "0"
+                     },
+                     {
+                        "location": "GDFH",
+                        "locationLname": "DEPOT FARHAT HACHED",
+                        "arrivalTime": {
+                           "_hour": "14",
+                           "_minutes": "38",
+                           "_seconds": "",
+                           "_tensMinutes": "0"
+                        },
+                        "spoSname": "=",
+                        "departureTime": {
+                           "_hour": "14",
+                           "_minutes": "39",
+                           "_seconds": "",
+                           "_tensMinutes": "0"
+                        },
+                        "regSname": "",
+                        "distance": "1939",
+                        "dayShift": "0"
+                     },
+                     {
+                        "location": "120S",
+                        "locationSname2": "120S",
+                        "locationLname": "Tunis Ville",
+                        "arrivalTime": {
+                           "_hour": "14",
+                           "_minutes": "42",
+                           "_seconds": "",
+                           "_tensMinutes": "0"
+                        },
+                        "regSname": "",
+                        "distance": "3800",
+                        "dayShift": "0"
+                     }
+                  ],
+                  "run": {
+                     "fromLocation": "130E",
+                     "fromLocation2": "",
+                     "fromLocationName12": "",
+                     "toLocation": "120S",
+                     "toLocation2": "120S",
+                     "toLocationName12": "",
+                     "runningDay": "LU-JE"
+                  },
+                  "vmax": "100",
+                  "refVmax": "100",
+                  "bp": "0",
+                  "trainQuality": "1"
+               }
+
